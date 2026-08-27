@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Thu, 27 Aug 2026 10:58:03 +0000
+Description: Yara Code — a lightweight code editor with a terminal UI and a GPU window
+Label: Yara Code
+Origin: Yara Code
+Suite: stable
+MD5Sum:
+ 9b4500467a15e0fff48d89bfce47dffb            10200 main/binary-amd64/Packages
+ d7cc93aa3a922408292fcbb1eb719f29             4415 main/binary-amd64/Packages.gz
+ 243cea1ad4ea711ac8bd67ea8817223b            10200 main/binary-arm64/Packages
+ 92139ab49c7e6b0003152ce877c6ad28             4422 main/binary-arm64/Packages.gz
+SHA1:
+ 1f3eeca3a9ac792261f8e975fafcd2930aba5e0a            10200 main/binary-amd64/Packages
+ fbb240368d76d5f8525b998965909734cf2ead70             4415 main/binary-amd64/Packages.gz
+ e87dd7941e33a9aed953dda74d8bd0fc18980ccf            10200 main/binary-arm64/Packages
+ 6df5024138108322f31e1df461d4becf19ff63b4             4422 main/binary-arm64/Packages.gz
+SHA256:
+ f13fc1a2aae516bad641f28ad56d235b49b755507124d8e6d2edb2ef7a9beb1f            10200 main/binary-amd64/Packages
+ 019d2224341346bc889afd8b663f083df179725804ad39daa88c81f7c36191d0             4415 main/binary-amd64/Packages.gz
+ 2cce5035521005c6c14f64f2ee10fe5feb7118eb1494840247e1dc44e903394b            10200 main/binary-arm64/Packages
+ b150f3443c5f28097c10dd471d1359be9770e9abd4070aedfa6e4354996aefe5             4422 main/binary-arm64/Packages.gz
+SHA512:
+ 8bd198a75f60fc53a35e61bac7f55959e63992df00112b6a17735e75b9e3267e14e17a95f35f399faa0e55800af9c8a872caf39a7e276b76102708480563e571            10200 main/binary-amd64/Packages
+ d180841de3d75806ac29878d295a54d9cd4a0664c63568ba6fd90e8c2bee659bb3d959ac1785517e2b8ccb562d8eb30da66b682fe64a434f07294614a3aa15ca             4415 main/binary-amd64/Packages.gz
+ 0617799e9de667ece7c3eff06bf9b376b1d7032f1ff66e8a23f768183401b3647781b016ff5e1dce44998d7869008c22118aa73fbec45214299071646e4489e9            10200 main/binary-arm64/Packages
+ 4fbe568f531e652a745ff33d2ed3259b624de0390a4cf02db9b9118c112d15dd858b687e5f29a99c5036707c42a0e3125d4fba4bab24361f373673abd680d106             4422 main/binary-arm64/Packages.gz
