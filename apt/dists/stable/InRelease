@@ -4,48 +4,48 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Wed, 02 Sep 2026 15:35:19 +0000
+Date: Wed, 02 Sep 2026 15:37:51 +0000
 Description: Yara Code — a lightweight code editor with a terminal UI and a GPU window
 Label: Yara Code
 Origin: Yara Code
 Suite: stable
 MD5Sum:
- c3f7537e5c5f263ea8ef317ffb531973             2455 Release
+ 559a1def6c11d1371dc005eb98ea25da             2455 Release
  5cf7ae73fc8355b97bfb8273e22b1711            74740 main/binary-amd64/Packages
  38f4ba9cc90e63c038b9b41f325fd01b             5717 main/binary-amd64/Packages.gz
  30ead65efd9c53becf2bd94b225522e5            74740 main/binary-arm64/Packages
  4951a82daaeb0723c93429e43021de13             5719 main/binary-arm64/Packages.gz
 SHA1:
- 2add3cd3b4ea883f5d995235b6fbd690c1a9da7a             2455 Release
+ 9bb3070b05a7dfaa5457d5ac6064eb02dccedbf1             2455 Release
  6ceaa2363e307678f2cedfc1e6ed0df9cffc1a5a            74740 main/binary-amd64/Packages
  8af951097509f93ff5dad2bdcd5208f751a12264             5717 main/binary-amd64/Packages.gz
  27decaaf8d3004b2b3216fc9cc87df82815cbd60            74740 main/binary-arm64/Packages
  3514dbc7a61bb644c025ce17c1a94c07cd9062a1             5719 main/binary-arm64/Packages.gz
 SHA256:
- 34e5462f45033c6f430d79a378d66248ac273a5d0f39c0a802ecdf591541850d             2455 Release
+ 1a1f4554a14838da1855061b4e758e6661093bd2ed0ec114288640f1a5786147             2455 Release
  6adc954ce4747627c6d9e7b050f40787ca86ab63433e8e1dfafdba9b901674c2            74740 main/binary-amd64/Packages
  c257001c13be89f31d6a450afef35540178066661f5ed4e6b239b0ff5ae204ad             5717 main/binary-amd64/Packages.gz
  5100e4aabe6ac6525306a88650f94d2acc20051aa4ef3fcebf6db6da5db6d2b8            74740 main/binary-arm64/Packages
  4349105a9abf5334438e635050a1f06794047b67ee4e293906a1a9e5c59a8eb6             5719 main/binary-arm64/Packages.gz
 SHA512:
- 046437ca867519d5d98140dc345291a5288a0155b0a8d94c9aa32737959c62bbdd25b23c7a1159b1daa3f89e78140206d1c5978eb154dc1125effa0c33a5b578             2455 Release
+ 97bd3348aa1b879c3107dae51a2be7b650760b4337fa00ab377b467f05fbe843efc54f9279bebc4522df1040a549ae33a422404e0980bab246299fb5ee16f2f0             2455 Release
  e3d6b35e6f826ee62456aadde48e6b9c1ae2de99d6de0409daf5842e35830b13d9f3ba6b6c360396a939a9df3aaddad5928b1d3ac02eb51ebb118b44e56bed03            74740 main/binary-amd64/Packages
  be4160c92f2b61617eb2380613c045254fc57c277b4eb30ba1327ae54bb7b7e0e63b972fe6404f836fde643b19d98996929e4313bbee79cdcd0b216c02786154             5717 main/binary-amd64/Packages.gz
  64f6fd8e07ad68a8269fc383e4ce3c7acdfb3e5070e02e6c8feae3019648f2262bb9cce9a65ec3d503cebdba68db015256e1ebe4defc8363a9715b3c30501e41            74740 main/binary-arm64/Packages
  b08d737a609025917e018635fd943b4cd34c943d5eb5d76bdb1315499ddf6bc17f3593f0a2d1c9d51f30ed4e2343d73ea7c5ab8385701a652cb7840ff3f5a16b             5719 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEE253tk/l1M7qqVnrcfuWW2WnjoQFAmqYQjcACgkQcfuWW2Wn
-joQ8mhAAl6k6q1hkGjz3aEVGqR9xtR1XbpmADRgDXE4OJpccBc7pnkftcs35j7D/
-eyk8yspupHkDuThkOr4EkJQL0eKRYYwRlnkRZOznDSUb1xYhHk1/O8OyH92jIs15
-dlqFqbBEfqQF5+DvW2oGxuu3rySZRDp/7o55fg4N3l5QzwFaCHfbb5l/7rl+gIs4
-DdDK9JYP47+kLDsWaa0av8oUUIKI7XsglclJg9sgJBws7roXqHJBDFfL8XTjZ+FQ
-naJ+DRUmmQ3bGCuDrCH6rBTdUjyXXrrYFvJwFOjCFa0jSXeFfW5z5PgEDZAvAQ93
-KDpOWgZtzIKT3blBd3m+G7LktM3lKxClX7iTR+lvZpvkybcpJaeEp277PXk3EE62
-GCXG28CkauEVRu2gspAiqg69tEWEXua4lakb2DAWaIFqrZU9N+eC6YPlOQ3k+boB
-CllpQKE5iIWqRLZphhzUBvyawa4DNbIdZu/9Sq3JGxcE5Q+xB8+04zwbPHpcr9GC
-x0zZMoz48aiU67koWHCCBv/s4Ax6Hv4zzfU7OfPp5CAW/iBtSTOACnunQzh5a1ZN
-q+iosBo4jIgMs2GeXJ3YyGlXefx8samh6HAGMA1BxbIEo0feARPI+62GhIkbR88t
-gp716fHdQbnXwqcp/SfAfQeuxVagti3x53z33CtRRPD/9rwxagc=
-=kC8B
+iQIzBAEBCgAdFiEEE253tk/l1M7qqVnrcfuWW2WnjoQFAmqYQs8ACgkQcfuWW2Wn
+joTz/g//bu8xpteNNBz1hayNPBD/+ixuoGN8IWJT89bDwPVH6ZW6AIhaURrkl9FJ
+fv4ciYCqE6oVAPquMrKaX5q/COIeO2w5V0i/gfObryXpcVnK4mQClSJ3pvCpAsRA
+/zGE60ml3JAHXL2C/f2gIKOqtpQS+f0m5M41JEld1BIfUwyAW6hkeZK5d2PM8DuN
+o69e2aUDYr3JeVbiMvbl+ipMc/cgdzBBce+aAr82T6E9XCymlvEnVo7LX91c0JUS
+Il8nFaJDmEaNr5PYnUl42ciiIAHildhM8YbUuLNh8uJ/oSL89iWlklp+uUtjEgo/
+yiY18kGRg/cXZAX2MdWLMUEPxCmn8gBHHiP9n2TfBTv8iPKAKWEDyWsRTCiqSRsk
++R2Ik+n2NROKl6VODFh8DpztQ20UFHNhAPIaw98CdiuMHBDb9rEmsxg0eGQHZRwi
+ux+doJzFvZAcUZeLAOWuV+LPRpNgEAGOrXsD61P20Y5iAkP4AgA6U2q91yxrNhO2
+nz2NS6Y97ynVU4bGt6S7r+9U1jqktl6naJfi95mMGxrW0e55LgpouKnJ+95z5F9r
+FaXTR4hRYF1wdF97UGGW4dN5OfILn8C2Csc3FtWJQl8cITN/45oWx9HR9/xobIkh
+IVUOfmYdJf+yrcqqQk1Ffq5QjLLEfSaw9D8u5CVp1GrBChrbDJ4=
+=wePi
 -----END PGP SIGNATURE-----
